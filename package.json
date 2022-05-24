@@ -1,7 +1,7 @@
 {
   "name": "my-news",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage" : "http://prajwalpandeyj.github.io/newsapp",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
